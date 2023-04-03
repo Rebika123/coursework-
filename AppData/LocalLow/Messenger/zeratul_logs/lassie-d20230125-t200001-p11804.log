@@ -1,0 +1,12 @@
+I0125 20:00:01.541567+0545 13156 Logging.cpp:118] Logs dir is C:\\Users\\Rebika Shahi\\AppData\\LocalLow\\Messenger\\zeratul_logs
+I0125 20:00:01.542063+0545 13156 Logging.cpp:119] Device ID is C8B8083E-E9D4-4765-A8FC-A012F9A52731
+I0125 20:00:01.542073+0545 13156 Logging.cpp:121] App ID is 1931350367173590
+I0125 20:00:01.542095+0545 13156 Logging.cpp:122] App build number is 420198555
+I0125 20:00:01.542099+0545 13156 Logging.cpp:123] App version is 170.0.0.24.92
+I0125 20:00:01.542102+0545 13156 Logging.cpp:124] App source is direct_download
+I0125 20:00:01.542110+0545 13156 Logging.cpp:125] Asl path is "C:\\Users\\Rebika Shahi\\AppData\\Local\\Messenger\\asl\\420198555.as2"
+I0125 20:00:01.542116+0545 13156 Logging.cpp:127] Command line: C:\\Users\\Rebika Shahi\\AppData\\Local\\Programs\\Messenger\\MessengerHelper.exe --lassie
+I0125 20:00:01.547546+0545 13156 Logging.cpp:75] Log files in dir vs allowed: 33/32
+I0125 20:00:01.547612+0545 13156 Logging.cpp:80] Deleting old log file: C:\\Users\\Rebika Shahi\\AppData\\LocalLow\\Messenger\\zeratul_logs\\lassie-d20230123-t130001-p11312.log
+I0125 20:00:01.548107+0545 13156 Lassie.cpp:91] Lassie: lastKnownUserId = 100042442068149
+I0125 20:00:01.548935+0545 13156 Lassie.cpp:184] Period check - periodS: 86400 lastSentEpoch: 1674656030 nowEpoch: 1674656101 death: 0

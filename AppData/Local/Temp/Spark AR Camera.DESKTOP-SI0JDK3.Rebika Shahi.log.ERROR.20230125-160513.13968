@@ -1,0 +1,6 @@
+Log file created at: 2023/01/25 16:05:13
+Running on machine: DESKTOP-SI0JDK3
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+E0125 16:05:13.221796 14828 soft_error.cpp:79] [ARFX] : Failed condition `ptr.get() != nullptr`
+E0125 16:05:13.221796 14828 soft_error.cpp:79] [ARFX] : Failed condition `target_.get() != nullptr`
+E0125 16:05:13.221796 14828 soft_error.cpp:79] [ARFX] : Failed condition `target_.get() != nullptr`

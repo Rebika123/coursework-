@@ -1,0 +1,39 @@
+Experiment 'pythonaa' is active
+Experiment 'pythonSurveyNotification' is active
+LSP Notebooks experiment is enabled
+LSP Notebooks interactive window support is enabled
+> conda info --json
+> "C:\Users\Rebika Shahi\AppData\Local\Programs\Python\Python310\python.exe" "c:\Users\Rebika Shahi\.vscode\extensions\ms-python.python-2022.20.2\pythonFiles\get_output_via_markers.py" "c:\Users\Rebika Shahi\.vscode\extensions\ms-python.python-2022.20.2\pythonFiles\interpreterInfo.py"
+[ERROR 2023-0-25 14:55:37.552]: [Error: Command failed: "C:\Users\Rebika Shahi\AppData\Local\Programs\Python\Python310\python.exe" "c:\Users\Rebika Shahi\.vscode\extensions\ms-python.python-2022.20.2\pythonFiles\get_output_via_markers.py" "c:\Users\Rebika Shahi\.vscode\extensions\ms-python.python-2022.20.2\pythonFiles\interpreterInfo.py"
+The system cannot find the path specified.
+
+	at ChildProcess.exithandler (node:child_process:408:12)
+	at ChildProcess.emit (node:events:526:28)
+	at maybeClose (node:internal/child_process:1092:16)
+	at Socket.<anonymous> (node:internal/child_process:451:11)
+	at Socket.emit (node:events:526:28)
+	at Pipe.<anonymous> (node:net:687:12)] {
+  killed: false,
+  code: 1,
+  signal: null,
+  cmd: '"C:\\Users\\Rebika Shahi\\AppData\\Local\\Programs\\Python\\Python310\\python.exe" "c:\\Users\\Rebika Shahi\\.vscode\\extensions\\ms-python.python-2022.20.2\\pythonFiles\\get_output_via_markers.py" "c:\\Users\\Rebika Shahi\\.vscode\\extensions\\ms-python.python-2022.20.2\\pythonFiles\\interpreterInfo.py"'
+}
+> "C:\Users\Rebika Shahi\PycharmProjects\pythonProject\venv\Scripts\python.exe" "c:\Users\Rebika Shahi\.vscode\extensions\ms-python.python-2022.20.2\pythonFiles\get_output_via_markers.py" "c:\Users\Rebika Shahi\.vscode\extensions\ms-python.python-2022.20.2\pythonFiles\interpreterInfo.py"
+> "C:\Users\Rebika Shahi\AppData\Local\Microsoft\WindowsApps\python3.10.exe" "c:\Users\Rebika Shahi\.vscode\extensions\ms-python.python-2022.20.2\pythonFiles\get_output_via_markers.py" "c:\Users\Rebika Shahi\.vscode\extensions\ms-python.python-2022.20.2\pythonFiles\interpreterInfo.py"
+> "C:\Users\Rebika Shahi\AppData\Local\Programs\Python\Python311\python.exe" "c:\Users\Rebika Shahi\.vscode\extensions\ms-python.python-2022.20.2\pythonFiles\get_output_via_markers.py" "c:\Users\Rebika Shahi\.vscode\extensions\ms-python.python-2022.20.2\pythonFiles\interpreterInfo.py"
+> "C:\Users\Rebika Shahi\AppData\Local\Programs\Python\Python310\python.exe" "c:\Users\Rebika Shahi\.vscode\extensions\ms-python.python-2022.20.2\pythonFiles\get_output_via_markers.py" "c:\Users\Rebika Shahi\.vscode\extensions\ms-python.python-2022.20.2\pythonFiles\interpreterInfo.py"
+[ERROR 2023-0-25 14:55:39.590]: [Error: Command failed: "C:\Users\Rebika Shahi\AppData\Local\Programs\Python\Python310\python.exe" "c:\Users\Rebika Shahi\.vscode\extensions\ms-python.python-2022.20.2\pythonFiles\get_output_via_markers.py" "c:\Users\Rebika Shahi\.vscode\extensions\ms-python.python-2022.20.2\pythonFiles\interpreterInfo.py"
+The system cannot find the path specified.
+
+	at ChildProcess.exithandler (node:child_process:408:12)
+	at ChildProcess.emit (node:events:526:28)
+	at maybeClose (node:internal/child_process:1092:16)
+	at ChildProcess._handle.onexit (node:internal/child_process:302:5)] {
+  killed: false,
+  code: 1,
+  signal: null,
+  cmd: '"C:\\Users\\Rebika Shahi\\AppData\\Local\\Programs\\Python\\Python310\\python.exe" "c:\\Users\\Rebika Shahi\\.vscode\\extensions\\ms-python.python-2022.20.2\\pythonFiles\\get_output_via_markers.py" "c:\\Users\\Rebika Shahi\\.vscode\\extensions\\ms-python.python-2022.20.2\\pythonFiles\\interpreterInfo.py"'
+}
+Starting Pylance language server.
+Python interpreter path: ~\AppData\Local\Microsoft\WindowsApps\python3.10.exe
+Send text to terminal: & "C:/Users/Rebika Shahi/AppData/Local/Microsoft/WindowsApps/python3.10.exe" "c:/Users/Rebika Shahi/foundation/keylogger.py"
